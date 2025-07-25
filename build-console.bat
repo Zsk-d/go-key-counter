@@ -1,0 +1,1 @@
+go build -o GoKeyCounter.exe .\counter\main.go

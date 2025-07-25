@@ -1,0 +1,1 @@
+go build -o GoKeyCounterExport.exe .\export\main.go
