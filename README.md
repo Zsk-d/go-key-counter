@@ -19,4 +19,4 @@
 ## build-*.bat
 - build-console.bat 编译控制台版本
 - build-headless.bat 编译无控制台版本
-- build-export.bat 编辑导出程序
+- build-export.bat 编译导出程序
